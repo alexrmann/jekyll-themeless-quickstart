@@ -6,7 +6,7 @@ title: Themeless Jekyll Quickstart
 url: ""
 # Internal links must be made relative to this to this path for Github Pages compatibility. Usually
 # the name of the repo.
-baseurl: "/themeless-jekyll-quickstart"
+baseurl: ""
 
 ### Build settings ###
 
